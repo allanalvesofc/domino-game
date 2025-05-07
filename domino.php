@@ -2,7 +2,7 @@
 
 //CODIGO FEITO POR ALLAN SILVA DEV
 //USE ESTE CÓDIGO PARA ESTUDAR O PHP
-// GITHUB: https://github.com/thebreachspy
+// GITHUB: https://github.com/allanalvesofc
 
 
 
